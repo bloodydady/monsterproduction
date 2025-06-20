@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+
+# Disallow admin and private pages
+Disallow: /admin/
+Disallow: /profile/
+Disallow: /api/
+
+# Allow important pages
+Allow: /tools
+Allow: /hackathons
+Allow: /projects
+Allow: /certificates
+Allow: /about
+Allow: /contact
+Allow: /request-help
+
+# Crawl delay
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://monsterproduction.netlify.app/sitemap.xml
+
+# Additional sitemaps
+Sitemap: https://monsterproduction.netlify.app/tools-sitemap.xml
+Sitemap: https://monsterproduction.netlify.app/blog-sitemap.xml

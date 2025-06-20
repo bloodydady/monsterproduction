@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- This will be dynamically generated for individual tools -->
+  <url>
+    <loc>https://monsterproduction.netlify.app/tools/chatgpt</loc>
+    <lastmod>2025-01-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://monsterproduction.netlify.app/tools/midjourney</loc>
+    <lastmod>2025-01-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://monsterproduction.netlify.app/tools/claude</loc>
+    <lastmod>2025-01-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
